@@ -21,8 +21,6 @@ I'm passionate about using **smart contracts** and **decentralized technology** 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Snake animation](https://github.com/U-GOD/U-GOD/blob/output/github-contribution-grid-snake.svg)
-
 ## 🌐 Let's Connect
 - [email](kabufredrick9@gmail.com)
 - [Twitter/X](https://x.com/u_godfvr)
