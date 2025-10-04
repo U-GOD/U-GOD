@@ -9,9 +9,9 @@ I'm passionate about using **smart contracts** and **decentralized technology** 
 - 🏆 Participated in ETHGlobal Unite DeFi Hackathon and ETHAccra 2025
 - 💡 Exploring DAOs, cross-chain swaps, and decentralized finance systems
 
-![Fredrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredrickKabu&show_icons=true&theme=radical)
+![Fredrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=U-GOD&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=FredrickKabu&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=U-GOD&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)
 
 ## 🛠️ Tech Stack
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -21,7 +21,7 @@ I'm passionate about using **smart contracts** and **decentralized technology** 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Snake animation](https://github.com/FredrickKabu/FredrickKabu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/U-GOD/U-GOD/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Let's Connect
 - [email](kabufredrick9@gmail.com)
