@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Fredrick Kabu
 
-🚀 **Blockchain & Solidity Developer** | Web3 Builder | Hackathon Participant  
+**Blockchain & Solidity Developer** | Web3 Builder | Hackathon Participant  
 
 I'm passionate about using **smart contracts** and **decentralized technology** to solve real-world problems. I focus mainly on Solidity, and DeFi protocols.  
 
