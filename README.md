@@ -4,10 +4,10 @@
 
 I'm passionate about using **smart contracts** and **decentralized technology** to solve real-world problems. I focus mainly on Solidity, and DeFi protocols.  
 
-- 🌍 Building with Ethereum
-- ⚡ Experienced in Solidity, Foundry, Hardhat, Remix
-- 🏆 Participated in ETHGlobal Unite DeFi Hackathon and ETHAccra 2025
-- 💡 Exploring DAOs, cross-chain swaps, and decentralized finance systems
+-  Building with Ethereum
+-  Experienced in Solidity, Foundry, Hardhat, Remix
+-  Participated in ETHGlobal Unite DeFi Hackathon and ETHAccra 2025
+-  Exploring DAOs, cross-chain swaps, and decentralized finance systems
 
 ![Fredrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=U-GOD&show_icons=true&theme=radical)
 
