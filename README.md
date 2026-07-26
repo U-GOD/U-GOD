@@ -1,27 +1,41 @@
-# Hi there 👋, I'm Fredrick Kabu
+<div align="center">
 
-**Blockchain & Solidity Developer** | Web3 Builder | Hacker  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Fredrick%20Kabu&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-I'm passionate about using **smart contracts** and **decentralized technology** to solve real-world problems. I focus mainly on Solidity, and DeFi protocols.  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Blockchain+Developer;Smart+Contracts+%7C+Web3+Infrastructure;Applied+Cryptography+Learner;Building+with+Purpose" alt="Typing SVG" />
 
--  Building with Ethereum
--  Experienced in Solidity, Foundry, Hardhat, Remix
--  Participated in ETHGlobal Unite DeFi Hackathon and ETHAccra 2025
--  Exploring DAOs, cross-chain swaps, and decentralized finance systems
+</div>
 
-![Fredrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=U-GOD&show_icons=true&theme=radical)
+## Hi there, I’m Fredrick Kabu
 
-![GitHub Streak](https://streak-stats.demolab.com?user=U-GOD&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)
+Blockchain developer focused on smart contracts, Web3 infrastructure, and applied cryptography.
 
-## 🛠️ Tech Stack
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FCC72C?style=for-the-badge&logo=hardhat&logoColor=black)
-![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=forge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+I enjoy building systems that are secure, practical, and useful. My work sits around Solidity, Foundry, TypeScript, Next.js, Ethereum, Hedera, and cross-chain tooling, with a growing interest in cryptography and protocol design.
 
-## 🌐 Let's Connect
-- [email](kabufredrick9@gmail.com)
-- [Twitter/X](https://x.com/u_godfvr)
+### Current Focus
+- Smart contract development and security
+- Applied cryptography and protocol mechanics
+- Web3 infrastructure and cross-chain systems
+- AI assisted tooling for blockchain workflows
 
+### Stack
+Solidity • Foundry • Hardhat • TypeScript • JavaScript • Next.js • React • Node.js • Ethers.js • Wagmi • Hedera • Ethereum • CosmWasm • Rust
+
+### Recognition
+1x hackathon and bounty winner
+
+### Links
+- GitHub: [U-GOD](https://github.com/U-GOD)
+- Email: kabufredrick9@gmail.com
+- Portfolio: [fredrick-kabu.vercel.app](https://fredrick-kabu.vercel.app)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=U-GOD&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=U-GOD&theme=tokyonight&hide_border=true" height="160" />
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer" width="100%" />
+</div>
